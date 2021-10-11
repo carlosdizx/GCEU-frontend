@@ -1,4 +1,6 @@
+# Diseñado y construido por Carlos Ernesto Díaz Basante
 # gppu-frontend
+# Sistema Gestión de convenios empresariales universitarios 
 
 ## Project setup
 ```
@@ -7,7 +9,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
