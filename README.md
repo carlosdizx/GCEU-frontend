@@ -1,4 +1,4 @@
-# gceu-frontend
+# gppu-frontend
 
 ## Project setup
 ```
